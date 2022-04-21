@@ -18,6 +18,8 @@
 
 * Multi-Task, Multi-Domain Deep Segmentation with Shared Representations and Contrastive Regularization for Sparse Pediatric Datasets (arXiv, 2022) [[paper](https://arxiv.org/pdf/2105.10310.pdf)]
 
+#### 2021
+
 * Domain Adaptive Knowledge Distillation for Driving Scene Semantic Segmentation (WACV Workshop, 2021)
 
 * Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey (arXiv, 2021) [[paper](https://arxiv.org/pdf/2112.03241.pdf)]
@@ -35,6 +37,8 @@
 * **[Multi-head]** Multi-Domain Semantic-Segmentation using Multi-Head Model (ITSC, 2021) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9564940)]
 
 * Semantic Segmentation on Multiple Visual Domains (arXiv, 2021) [[paper](https://arxiv.org/pdf/2107.04326.pdf)]
+
+#### 2020 and Before
 
 * **[BDD100K]** BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning (CVPR, 2020) [[paper](https://arxiv.org/pdf/1805.04687.pdf)]
 
