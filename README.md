@@ -1,4 +1,4 @@
-# MDMT
+# Multi-domain Multi-task Learning
 
 ## Multi-domain Single-task Learning
 
@@ -9,6 +9,8 @@
 * **[Visual Domain Decathlon]** Learning multiple visual domains with residual adapters (NeurIPS, 2017) [[paper](https://arxiv.org/abs/1705.08045)] [[dataset](https://www.robots.ox.ac.uk/~vgg/decathlon/)]
 
 ### Dense Prediction Tasks & Object Detection
+
+#### 2022
 
 * FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation (CVPR, 2022) [[paper](https://arxiv.org/pdf/2204.01587.pdf)] [[code](https://github.com/sohyun-l/fifo)]
 
