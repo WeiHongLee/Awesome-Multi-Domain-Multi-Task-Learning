@@ -12,6 +12,8 @@
 
 #### 2022
 
+* Simple Multi-dataset Detection (CVPR, 2022) [[paper](http://www.philkr.net/media/zhou2022simple.pdf)] [[code](https://github.com/xingyizhou/UniDet)]
+
 * FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation (CVPR, 2022) [[paper](https://arxiv.org/pdf/2204.01587.pdf)] [[code](https://github.com/sohyun-l/fifo)]
 
 * Learning Semantic Segmentation from Multiple Datasets with Label Shifts (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.14030.pdf)]
