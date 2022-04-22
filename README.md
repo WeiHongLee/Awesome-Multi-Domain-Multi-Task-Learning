@@ -16,6 +16,10 @@
 
 * FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation (CVPR, 2022) [[paper](https://arxiv.org/pdf/2204.01587.pdf)] [[code](https://github.com/sohyun-l/fifo)]
 
+* Multiple Adverse Weather Conditions Adaptation for Object Detection via Causal Intervention (TPAMI, 2022) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756301)]
+
+* Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions (AAAI, 2022) [[paper](https://arxiv.org/abs/2112.08088v2)] [[code](https://github.com/wenyyu/Image-Adaptive-YOLO)]
+
 * Learning Semantic Segmentation from Multiple Datasets with Label Shifts (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.14030.pdf)]
 
 * Multi-Task, Multi-Domain Deep Segmentation with Shared Representations and Contrastive Regularization for Sparse Pediatric Datasets (arXiv, 2022) [[paper](https://arxiv.org/pdf/2105.10310.pdf)]
