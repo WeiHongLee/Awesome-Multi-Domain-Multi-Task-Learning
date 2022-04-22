@@ -50,6 +50,8 @@
 
 * Semantic Segmentation with Unsupervised Domain Adaptation Under Varying Weather Conditions for Autonomous Vehicles (Robotics and Automation Letters, 2020) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9025254)]
 
+* Object Detection with a Unified Label Space from Multiple Datasets (ECCV, 2020) [[paper](https://arxiv.org/pdf/2008.06614.pdf)]
+
 * IDDA: a large-scale multi-domain dataset for autonomous driving (Robotics and Automation Letters, 2020) [[paper](http://ras.papercept.net/images/temp/IROS/files/2790.pdf)] [[dataset](https://zenodo.org/record/4389243#.YmHOgC-B0Us)]
 
 * Robust Semantic Segmentation in Adverse Weather Conditions by means of Sensor Data Fusion (arXiv, 2019) [[paper](https://arxiv.org/pdf/1905.10117.pdf)]
