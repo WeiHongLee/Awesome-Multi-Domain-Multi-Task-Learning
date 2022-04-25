@@ -54,6 +54,8 @@
 
 * IDDA: a large-scale multi-domain dataset for autonomous driving (Robotics and Automation Letters, 2020) [[paper](http://ras.papercept.net/images/temp/IROS/files/2790.pdf)] [[dataset](https://zenodo.org/record/4389243#.YmHOgC-B0Us)]
 
+* Towards Universal Object Detection by Domain Attention (CVPR, 2019) [[paper](https://arxiv.org/pdf/1904.04402.pdf)] [[code](https://github.com/frank-xwang/towards-universal-object-detection)]
+
 * Robust Semantic Segmentation in Adverse Weather Conditions by means of Sensor Data Fusion (arXiv, 2019) [[paper](https://arxiv.org/pdf/1905.10117.pdf)]
 
 * Bridging the Day and Night Domain Gap for Semantic Segmentation (Symposium on Intelligent Vehicle, 2019) [[paper](http://www.wangkaiwei.org/file/publications/iv2019_eduardo.pdf)]
