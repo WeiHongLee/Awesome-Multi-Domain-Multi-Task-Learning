@@ -20,19 +20,23 @@
 
 * Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions (AAAI, 2022) [[paper](https://arxiv.org/abs/2112.08088v2)] [[code](https://github.com/wenyyu/Image-Adaptive-YOLO)]
 
+* Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation (arXiv, 2022) [[paper](https://arxiv.org/pdf/2203.11160.pdf)]
+
 * Learning Semantic Segmentation from Multiple Datasets with Label Shifts (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.14030.pdf)]
 
 * Multi-Task, Multi-Domain Deep Segmentation with Shared Representations and Contrastive Regularization for Sparse Pediatric Datasets (arXiv, 2022) [[paper](https://arxiv.org/pdf/2105.10310.pdf)]
 
 #### 2021
 
-* Domain Adaptive Knowledge Distillation for Driving Scene Semantic Segmentation (WACV Workshop, 2021)
+* Domain Adaptive Knowledge Distillation for Driving Scene Semantic Segmentation (WACV Workshop, 2021) [[paper](https://arxiv.org/pdf/2011.08007.pdf)]
 
 * Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey (arXiv, 2021) [[paper](https://arxiv.org/pdf/2112.03241.pdf)]
 
 * Geometric Unsupervised Domain Adaptation for Semantic Segmentation (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guizilini_Geometric_Unsupervised_Domain_Adaptation_for_Semantic_Segmentation_ICCV_2021_paper.pdf)]
 
 * Multi-Domain Conditional Image Translation: Translating Driving Datasets from Clear-Weather to Adverse Conditions (ICCV Workshop, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/ILDAV/papers/Vinod_Multi-Domain_Conditional_Image_Translation_Translating_Driving_Datasets_From_Clear-Weather_to_ICCVW_2021_paper.pdf)]
+
+* Multi-weather city: Adverse weather stacking for autonomous driving (ICCV workshop, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Musat_Multi-Weather_City_Adverse_Weather_Stacking_for_Autonomous_Driving_ICCVW_2021_paper.pdf)]
 
 * DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation (CVPR, 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_DANNet_A_One-Stage_Domain_Adaptation_Network_for_Unsupervised_Nighttime_Semantic_CVPR_2021_paper.pdf)] [[code](https://github.com/W-zx-Y/DANNet)]
 
@@ -53,6 +57,8 @@
 * Object Detection with a Unified Label Space from Multiple Datasets (ECCV, 2020) [[paper](https://arxiv.org/pdf/2008.06614.pdf)]
 
 * IDDA: a large-scale multi-domain dataset for autonomous driving (Robotics and Automation Letters, 2020) [[paper](http://ras.papercept.net/images/temp/IROS/files/2790.pdf)] [[dataset](https://zenodo.org/record/4389243#.YmHOgC-B0Us)]
+
+* Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer (TPAMI, 2020) [[paper](https://arxiv.org/pdf/1907.01341.pdf)]
 
 * Towards Universal Object Detection by Domain Attention (CVPR, 2019) [[paper](https://arxiv.org/pdf/1904.04402.pdf)] [[code](https://github.com/frank-xwang/towards-universal-object-detection)]
 
