@@ -1,6 +1,24 @@
 # Multi-domain Multi-task Learning
 
-## Multi-domain Single-task Learning
+## Multi-task Learning
+
+* OMNIVORE: A Single Model for Many Visual Modalities (CVPR, 2022) [[paper](https://arxiv.org/pdf/2201.08377.pdf)] [[code](https://github.com/facebookresearch/omnivore)]
+
+* X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation (arXiv, 2022) [[paper](https://arxiv.org/pdf/2203.08764.pdf)]
+
+* Multi-Task Self-Training for Learning General Representations (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ghiasi_Multi-Task_Self-Training_for_Learning_General_Representations_ICCV_2021_paper.pdf)]
+
+* UniT: Multimodal Multitask Learning with a Unified Transformer (arXiv, 2021) [[paper](https://arxiv.org/pdf/2102.10772.pdf)] [[code](https://github.com/facebookresearch/mmf)]
+
+
+
+## Single-task Learning
+
+### Challenge
+
+* [Robust Vision Challenge](http://www.robustvision.net/index.php) (ECCV Workshop 2018, 2020, 2022)
+
+* [Adverse Conditions Dataset with Correspondences (ACDC)](https://acdc.vision.ee.ethz.ch) (ICCV 2021) [[paper](https://acdc.vision.ee.ethz.ch/other/ACDC_the_Adverse_Conditions_Dataset_with_Correspondences_for_semantic_driving_scene_understanding-Sakaridis+Dai+Van_Gool-ICCV_21.pdf)]
 
 ### Image Classification
 
