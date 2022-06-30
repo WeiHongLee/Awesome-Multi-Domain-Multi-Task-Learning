@@ -1,11 +1,5 @@
 # Multi-domain Multi-task Learning
 
-## Transfer Learning
-
-* Transferability Metrics for Selecting Source Model Ensembles (CVPR 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Agostinelli_Transferability_Metrics_for_Selecting_Source_Model_Ensembles_CVPR_2022_paper.pdf)]
-
-* Factors of influence for transfer learning across diverse appearance domains and task types (TPAMI, 2022) [[paper](https://arxiv.org/pdf/2103.13318)]
-
 ## Multi-task Learning
 
 * The Missing Link: Finding label relations across datasets (arXiv, 2022) [[paper](https://arxiv.org/pdf/2206.04453)]
@@ -18,7 +12,11 @@
 
 * UniT: Multimodal Multitask Learning with a Unified Transformer (arXiv, 2021) [[paper](https://arxiv.org/pdf/2102.10772.pdf)] [[code](https://github.com/facebookresearch/mmf)]
 
+## Transfer Learning
 
+* Transferability Metrics for Selecting Source Model Ensembles (CVPR 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Agostinelli_Transferability_Metrics_for_Selecting_Source_Model_Ensembles_CVPR_2022_paper.pdf)]
+
+* Factors of influence for transfer learning across diverse appearance domains and task types (TPAMI, 2022) [[paper](https://arxiv.org/pdf/2103.13318)]
 
 ## Single-task Learning
 
