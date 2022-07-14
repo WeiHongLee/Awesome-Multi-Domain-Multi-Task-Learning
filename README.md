@@ -2,7 +2,7 @@
 
 ## Multi-task Learning
 
-* The Missing Link: Finding label relations across datasets (arXiv, 2022) [[paper](https://arxiv.org/pdf/2206.04453)]
+* The Missing Link: Finding label relations across datasets (ECCV, 2022) [[paper](https://arxiv.org/pdf/2206.04453)]
 
 * OMNIVORE: A Single Model for Many Visual Modalities (CVPR, 2022) [[paper](https://arxiv.org/pdf/2201.08377.pdf)] [[code](https://github.com/facebookresearch/omnivore)]
 
