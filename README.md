@@ -37,6 +37,7 @@
 #### 2022
 
 * Simple Multi-dataset Detection (CVPR, 2022) [[paper](http://www.philkr.net/media/zhou2022simple.pdf)] [[code](https://github.com/xingyizhou/UniDet)]
+* Both Style and Fog Matter: Cumulative Domain Adaptation for Semantic Foggy Scene Understanding (CVPR, 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Both_Style_and_Fog_Matter_Cumulative_Domain_Adaptation_for_Semantic_CVPR_2022_paper.pdf)]
 
 * FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation (CVPR, 2022) [[paper](https://arxiv.org/pdf/2204.01587.pdf)] [[code](https://github.com/sohyun-l/fifo)]
 
