@@ -4,11 +4,13 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ## Multi-task Learning
 
+* X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks (ECCV, 2022) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960288.pdf)] [[code](https://github.com/amazon-research/cross-modal-detr)]
+
+* X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation (ECCV, 2022) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860495.pdf)]
+
 * The Missing Link: Finding label relations across datasets (ECCV, 2022) [[paper](https://arxiv.org/pdf/2206.04453)]
 
 * OMNIVORE: A Single Model for Many Visual Modalities (CVPR, 2022) [[paper](https://arxiv.org/pdf/2201.08377.pdf)] [[code](https://github.com/facebookresearch/omnivore)]
-
-* X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation (arXiv, 2022) [[paper](https://arxiv.org/pdf/2203.08764.pdf)]
 
 * Multi-Task Self-Training for Learning General Representations (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ghiasi_Multi-Task_Self-Training_for_Learning_General_Representations_ICCV_2021_paper.pdf)]
 
