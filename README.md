@@ -40,6 +40,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 #### 2022
 
+* Learning Semantic Segmentation from Multiple Datasets with Label Shifts (ECCV, 2022) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880019.pdf)] [[code](https://www.nec-labs.com/~mas/UniSeg/)]
+
 * Simple Multi-dataset Detection (CVPR, 2022) [[paper](http://www.philkr.net/media/zhou2022simple.pdf)] [[code](https://github.com/xingyizhou/UniDet)]
 * Both Style and Fog Matter: Cumulative Domain Adaptation for Semantic Foggy Scene Understanding (CVPR, 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Both_Style_and_Fog_Matter_Cumulative_Domain_Adaptation_for_Semantic_CVPR_2022_paper.pdf)]
 
@@ -50,8 +52,6 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions (AAAI, 2022) [[paper](https://arxiv.org/abs/2112.08088v2)] [[code](https://github.com/wenyyu/Image-Adaptive-YOLO)]
 
 * Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation (arXiv, 2022) [[paper](https://arxiv.org/pdf/2203.11160.pdf)]
-
-* Learning Semantic Segmentation from Multiple Datasets with Label Shifts (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.14030.pdf)]
 
 * Multi-Task, Multi-Domain Deep Segmentation with Shared Representations and Contrastive Regularization for Sparse Pediatric Datasets (arXiv, 2022) [[paper](https://arxiv.org/pdf/2105.10310.pdf)]
 
